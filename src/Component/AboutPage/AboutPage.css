@@ -1,0 +1,42 @@
+.bg-about {
+  /* The image used */
+  background-image: url("http://www.davidmasonbooks.com/images/store-04.jpg");
+
+  /* Full height */
+  height: 60vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Aboutpage-Title {
+  position: absolute;
+  height: 4px;
+  /*width: 6rem;*/
+  width: 200px;
+  top: 280px;
+  left: 30px;
+  font-size: 38px;
+  color: white;
+  bottom: 0;
+}
+.aboutpage-text {
+  margin-top: -350px;
+}
+.aboutpage-secondtitle {
+  position: absolute;
+  height: 6px;
+  /*width: 6rem;*/
+  width: 500px;
+  top: 50px;
+  left: 8px;
+  font-size: 38px;
+  color: white;
+}
+.row {
+  margin-top: 10px;
+}
+.aboutpage-description {
+  margin-top: 600px !important;
+}

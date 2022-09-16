@@ -1,0 +1,44 @@
+.fa-trash {
+  color: red !important;
+}
+.fa-pencil {
+  color: blue !important;
+}
+
+.table {
+  margin-top: 50px;
+}
+.form-control {
+  margin-left: 30px;
+}
+.btnnew {
+  margin-left: 150px;
+}
+.navwordwrap {
+  word-wrap: normal;
+}
+
+.navitem-margin {
+  padding-left: 130px !important;
+  height: 60px !important;
+}
+.label-text {
+  width: 120px;
+  word-wrap: break-word;
+  word-break: normal;
+}
+.text-truncate {
+  height: 40px;
+  width: 120px;
+}
+.label-new {
+  height: 40px;
+}
+.navbar-nav > li {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+.navbar-nav > li {
+  margin-left: 40px !important;
+  margin-right: 40px !important;
+}
